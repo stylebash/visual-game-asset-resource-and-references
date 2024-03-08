@@ -13,3 +13,8 @@
 1. https://www.gameuidatabase.com/ - loads kinda slow at the time of this writing.
 ## vfx ##
 ## misc / anything in between ##
+## stock photos ##
+1. https://www.pexels.com/
+2. https://unsplash.com/
+3. https://pixabay.com/
+4. https://photobash.co/images
