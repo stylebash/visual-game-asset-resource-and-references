@@ -18,3 +18,9 @@
 2. https://unsplash.com/
 3. https://pixabay.com/
 4. https://photobash.co/images
+5. https://www.shorpy.com/ - historical american photos
+6. https://wallhaven.cc/ - wallpapers
+7. https://wallhere.com/ - wallpapers
+8. https://wallhalla.com/ - wallpapers
+## active practice - drawing, etc.##
+1. https://quickposes.com/en
