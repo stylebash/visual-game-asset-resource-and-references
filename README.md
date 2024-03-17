@@ -24,3 +24,5 @@
 8. https://wallhalla.com/ - wallpapers
 ## active practice - drawing, etc.##
 1. https://quickposes.com/en
+2. https://artprof.org/learn/art-prof-timed-drawing-sessions
+3. https://www.posemaniacs.com/
